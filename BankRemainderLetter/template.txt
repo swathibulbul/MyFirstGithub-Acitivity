@@ -1,0 +1,17 @@
+Dear {{cname}}
+
+Here the details of your FD
+
+Amount Deposited : {{amountDeposited}}
+Maturity Amount : {{maturityAmount}}
+Matures on : {{maturesOn}}
+Deposit Date : {{depositDate}}
+Deposit Type : {{depositType}}
+
+This is the FD based on {{deposit_type}}. For this {{deposit_type}} you need to bring the following to collect the maturity amount.
+
+<INSTRUCTIONS SPECIFIC to SCHEME>
+
+
+Regards
+ABC Bank
